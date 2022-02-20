@@ -16,7 +16,7 @@ good good good
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
 | Sahendra Pang | A1234567A | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0938644@u.nus.edu |
-| Santi- | A1234567B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0938899@u.nus.edu |
+| Santi- Test| A1234567B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0938899@u.nus.edu |
 | Sim Yuh Fan | A249251E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0938856@u.nus.edu |
 | Tan Xiang Feng | A1234567D | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0938623@u.nus.edu |
 | Zhang Zhewei | A1234567E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0938863@u.nus.edu |
