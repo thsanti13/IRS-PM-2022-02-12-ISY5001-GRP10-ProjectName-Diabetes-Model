@@ -1,4 +1,4 @@
-## SECTION 1 : IRS-PM-2022-02-12-ISY5001-GRP10-ProjectName-Diabetes-Model
+## SECTION 1 : IRS-PM-2022-02-12-ISY5001-GRP10-ProjectName-Diabetes-E-Doctor
 ## Diabates - xxx System / Model
 
 <img src="SystemCode/clips/static/hdb-bto.png"
@@ -7,7 +7,9 @@
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-good good good
+This E-Doctor is an expert in Diabates. It can provides the following services remotely:
+1) Advise on healthy people about their diabete condition.
+2) Diagnoze the diabete patients about the stage of their sickness. 
 
 ---
 
